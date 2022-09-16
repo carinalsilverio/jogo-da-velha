@@ -1,8 +1,6 @@
 # Jogo da Velha
 >Criação do Jogo da Velha.
 
-Projeto pessoal.
-
 ![preview](/github/preview.png)
 
 Projeto pessoal para prática de HTML, CSS e JavaScript.
